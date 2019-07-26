@@ -1,0 +1,29 @@
+.super {
+  background-color: yellow;
+}
+.cool {
+  color: blue;
+}
+.rouge,
+.vert,
+.bleu,
+.jaune {
+  width: 300px;
+  height: 100px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.rouge {
+  background-color: red;
+}
+.vert {
+  background-color: green;
+}
+.bleu {
+  background-color: blue;
+}
+.jaune {
+  background-color: yellow;
+}
