@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Cours Js Events</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+  </head>
+  <body>
+    <div class="rouge">Rouge</div>
+    <div class="vert">Vert</div>
+    <div class="bleu" onclick="bleu.textContent='modifié depuis le html'">
+      Bleu
+    </div>
+    <div id="parent">
+      <div id="enfant"></div>
+    </div>
+    <form>
+      <input type="text" placeholder="Ton nom" />
+      <button type="submit">Envoyer</button>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>
