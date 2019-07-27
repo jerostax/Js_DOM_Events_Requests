@@ -26,7 +26,7 @@
 
 7.  [setTimeout & setInterval](https://github.com/jerostax/Js_DOM_Events_Requests/tree/master/SetTimeout%20:%20SetInterval)
 
-        - Documation supplémentaire : [Doc MDN setTimeout](https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) <br>
+    - Documation supplémentaire : [Doc MDN setTimeout](https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) <br>
 
     Documation supplémentaire : [Doc MDN setInterval](https://developer.mozilla.org/fr/docs/Web/API/WindowTimers/setInterval)
 
