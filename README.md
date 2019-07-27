@@ -28,7 +28,7 @@
 
     - Documation supplémentaire : [Doc MDN setTimeout](https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) <br>
 
-    Documation supplémentaire : [Doc MDN setInterval](https://developer.mozilla.org/fr/docs/Web/API/WindowTimers/setInterval)
+    - Documation supplémentaire : [Doc MDN setInterval](https://developer.mozilla.org/fr/docs/Web/API/WindowTimers/setInterval)
 
 8.  [Opérateur Ternaire](https://github.com/jerostax/Js_DOM_Events_Requests/tree/master/Op%C3%A9rateur%20Ternaire)
 
