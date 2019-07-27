@@ -26,13 +26,17 @@ Documation supplémentaire : [Doc MDN](https://developer.mozilla.org/fr/docs/Web
 
 7. [setTimeout & setInterval](https://github.com/jerostax/Js_DOM_Events_Requests/tree/master/SetTimeout%20:%20SetInterval)
 
-Documation supplémentaire : [Doc MDN setTimeout](https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+Documation supplémentaire : [Doc MDN setTimeout](https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) <br>
 Documation supplémentaire : [Doc MDN setInterval](https://developer.mozilla.org/fr/docs/Web/API/WindowTimers/setInterval)
 
-8. [Opérateur Ternaire]
+8. [Opérateur Ternaire](https://github.com/jerostax/Js_DOM_Events_Requests/tree/master/Op%C3%A9rateur%20Ternaire)
 
 Documation supplémentaire : [Doc MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_conditionnel)
 
-9. [Fonctions sur les String]
+9. [Fonctions sur les String](https://github.com/jerostax/Js_DOM_Events_Requests/tree/master/Fonctions%20de%20String)
 
 Documation supplémentaire : [Doc MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String)
+
+10. [Fonctions sur les Arrays]
+
+Documentation suuplémentaire : [Doc MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array)
