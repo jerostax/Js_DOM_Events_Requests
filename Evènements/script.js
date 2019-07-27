@@ -72,7 +72,7 @@ window.onload = function() {
     console.log(event.target);
     // Cette fois si on affiche la cible du moment ou on affiche le code (si on clique sur la div enfant on aura donc la div parent dans le console.log)
     console.log(event.currentTarget);
-    // On obtient a quel axe X on clique
+    // On obtient à quel axe X on clique
     console.log(event.clientX);
   }
 
@@ -84,7 +84,7 @@ window.onload = function() {
   //   event.stopPropagation();
   // }
 
-  // Prevent default = empêche le comportemant par défaut de submit qui rafraichit la page au moment ou il est exécuté
+  // Prevent default = empêche le comportement par défaut de submit qui rafraichit la page au moment ou il est exécuté
   const form = document.querySelector('form');
 
   form.addEventListener('submit', envoyerForm);
